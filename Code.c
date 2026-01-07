@@ -1,5 +1,5 @@
-# PSC-AAT-Project
-Guessing Game with number of attempts
+//# PSC-AAT-Project
+//Guessing Game with number of attempts
 
 #include <stdio.h>
 
